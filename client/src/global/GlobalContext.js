@@ -6,13 +6,14 @@ import {
   ON_CSS_CODE_ADDED,
   CONVERT_CLICK,
   ON_JS_CODE_ADDED,
+  SAMPLE_CSS,
 } from "./types";
 import { v4 as uuidv4 } from "uuid";
 
 // Initial state
 const initialState = {
   alerts: [],
-  cssCode: "",
+  cssCode: SAMPLE_CSS,
   jsCode: "",
 };
 
