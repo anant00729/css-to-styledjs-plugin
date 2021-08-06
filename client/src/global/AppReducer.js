@@ -42,7 +42,7 @@ const covertCssToJs = (data) => {
   //   const copyData = data.slice();
   const allImports = `import styled from "styled-components";\n\n`;
 
-  const removeDevname = /\/\*\sDeveloped by Anant S Awasthy\s\*\//;
+  const removeDevname = /\/\*\sDeveloped by Arnav S Awasthy\s\*\//;
   const classConverterPattern = /^\.[a-zA-Z0-9_ -]*{/gm;
   const closeCurlyConverterPattern = /\}/gm;
   const mediaTrackingPattern = /@media[^{]+\{([\s\S]+?})\s*}/gm;
