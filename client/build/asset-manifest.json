@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.d443c3c3.chunk.js",
+    "main.js.map": "/static/js/main.d443c3c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.780acb07.js",
+    "runtime-main.js.map": "/static/js/runtime-main.780acb07.js.map",
+    "static/js/2.cd63f139.chunk.js": "/static/js/2.cd63f139.chunk.js",
+    "static/js/2.cd63f139.chunk.js.map": "/static/js/2.cd63f139.chunk.js.map",
+    "static/js/3.c248d0dc.chunk.js": "/static/js/3.c248d0dc.chunk.js",
+    "static/js/3.c248d0dc.chunk.js.map": "/static/js/3.c248d0dc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.cd63f139.chunk.js.LICENSE.txt": "/static/js/2.cd63f139.chunk.js.LICENSE.txt",
+    "static/media/bamboo.b000660f.svg": "/static/media/bamboo.b000660f.svg",
+    "static/media/beauty.de5608ee.svg": "/static/media/beauty.de5608ee.svg",
+    "static/media/body-wrap.24b83ca8.svg": "/static/media/body-wrap.24b83ca8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.780acb07.js",
+    "static/js/2.cd63f139.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.d443c3c3.chunk.js"
+  ]
+}
